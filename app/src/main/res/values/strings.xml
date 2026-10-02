@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Color Frequency</string>
+
+    <!-- AdMob TEST ids from Google. Replace both before publishing. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_rewarded_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+    <string name="play">PLAY</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="about">ABOUT</string>
+    <string name="sound">Sound</string>
+    <string name="how_title">How to Play</string>
+    <string name="how_body">Colored rings shrink toward the center.\n\n• Tap anywhere to rotate the core 90 degrees clockwise.\n• The color under the top white arrow is your active color.\n• Match incoming rings with the correct core color.\n• One mistake ends the run unless you revive!\n\nThe longer you survive, the faster the rings and music get.</string>
+    <string name="about_title">About Color Frequency</string>
+    <string name="about_body">Color Frequency v1.0\n\nA fast-paced arcade reflex and rhythm game built with Android Java and Custom Canvas rendering.\n\nMatch colors, beat your high score, and enjoy the dynamic procedural soundtrack!\n\nDeveloped for Android.</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="new_best">NEW BEST!</string>
+    <string name="revive">WATCH AD TO REVIVE</string>
+    <string name="retry">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="ad_unavailable">Ad not available right now. Try again in a moment.</string>
+    <string name="ok">OK</string>
+</resources>
